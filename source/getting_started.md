@@ -5,8 +5,8 @@
 * Download v1.1.2 of the datapack
     [here](https://yadi.sk/d/j1qI69z-X-L44w).
 * Within your Minecraft world file, place the zip file into the `datapacks` subfolder.
-* Launch the world, or if it’s already running, use the `/reload` command.
-  * The world must not be in peaceful mode.
+* Open the world, or if it’s already running, use the `/reload` command.
+  * BlingEdit does not work in peaceful mode.
 
 ## The BlingEdit sword
 
