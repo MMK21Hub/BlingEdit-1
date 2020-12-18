@@ -2,9 +2,9 @@
 
 ## Installation
 
-* Download v1.0.2 of the datapack
-    [here](https://drive.google.com/file/d/1ZQ--80WKODF_wW_H8tRrX8LBbSPke6SE/view?usp=sharing).
-* Within your Minecraft world file, place `blingedit.zip` into the `datapacks` subfolder.
+* Download v1.1.2 of the datapack
+    [here](https://yadi.sk/d/j1qI69z-X-L44w).
+* Within your Minecraft world file, place the zip file into the `datapacks` subfolder.
 * Launch the world, or if it’s already running, use the `/reload` command.
   * The world must not be in peaceful mode.
 
