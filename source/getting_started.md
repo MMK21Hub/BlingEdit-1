@@ -8,8 +8,11 @@
 * Open the world, or if it’s already running, use the `/reload` command.
   * BlingEdit does not work in peaceful mode.
 
-## The BlingEdit sword
+## The BlingEdit Wand
 
-To use any of the datapack’s features, you must create the BlingEdit Sword. Simply put a diamond sword into an anvil,
-and rename it to BlingEdit. Note that correct spacing and capitalization is required. Everything in the datapack
-requires you to be holding the BlingEdit Sword.
+To start using BlingEdit, you must obtain a BlingEdit Wand. This is eather a carrot on a stick or a diamond sword, 
+and both can be obtained by clicking the buttons that appear in chat after `/reload`-ing.
+An alternate method is, using an anvil, to rename a diamond sword or carrot on a stick to `BlingEdit`, 
+which will turn it into a Wand.
+Note that correct spacing and capitalization is required. 
+Everything in the datapack requires you to be holding the BlingEdit Wand.
